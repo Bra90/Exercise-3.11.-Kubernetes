@@ -9,6 +9,7 @@ The diagram demonstrates the architecture of a Kubernetes cluster with one maste
 
 
 # Kubernetes Diagram
+![Kubernetes Cluster Diagram](https://github.com/Bra90/Exercise-3.11.-Kubernetes/blob/main/3.11.%20Kubernetes%202.jpg)
 
 
 
