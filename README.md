@@ -10,6 +10,9 @@ The diagram demonstrates the architecture of a Kubernetes cluster with one maste
 
 # Kubernetes Diagram
 
+
+
+# License and Copyright
 © 2025 Brando Marzio Sabatini. All rights reserved.
 
 This diagram is protected by copyright law. Unauthorized use, reproduction, or distribution is prohibited. Commercial use requires a paid license. For licensing inquiries, please contact brandom.sabatini@gmail.com
